@@ -1,2 +1,2 @@
 # USYD-COMP5318
-Machine Learning
+Machine Learning and Data Mining 
